@@ -1,0 +1,74 @@
+*{
+    margin: 100;
+    padding: 100;
+}
+body{
+    width: 1000px;
+    height: 700px;
+    background-image: url(https://i0.wp.com/www.marcelopedra.com.ar/blog/wp-content/uploads/2013/10/animated-gifs-of-fighting-game-backgrounds-36.gif?resize=640%2C480&ssl=1);
+    font-family: 'Times New Roman', Times, serif;   
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+}
+
+img{
+   float: right; 
+}
+
+h1{
+    text-align: center;
+    font-weight: bold;
+    color: aliceblue; 
+    font-size: 50px;   
+}
+
+#leer{
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 30px;
+    
+}
+
+
+#numero1{
+    width: 150px;
+    margin-left: 120px;
+    color: aqua;
+    background-color: rgb(6, 41, 41);
+    text-align: center;
+}
+
+#numero2{
+    width: 150px;
+    margin-left: 120px;
+    color: aqua;
+    background-color: rgb(6, 41, 41);
+    text-align: center;
+
+}
+
+#in{
+    margin-left: 50px;
+}
+
+#boton{
+    color: aqua;
+    background-color: rgb(6, 27, 27);
+    margin-left: 50px;
+
+}
+
+#respuesta{
+    text-align: center;
+    background-color: rgb(2, 19, 19);
+    color: aqua;
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+#sma{
+    text-align: center;
+    font-size: 15px;
+    margin-left: 400px;
+}
